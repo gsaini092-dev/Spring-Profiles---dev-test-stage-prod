@@ -1,0 +1,7 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    welcomeMessage: Welcome to stage environment - with Deepak
+    XApiKey: stage-123

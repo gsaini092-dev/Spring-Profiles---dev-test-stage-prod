@@ -1,0 +1,11 @@
+
+
+spring:
+  profiles:
+    active: stage
+  application:
+    welcomeMessage: No environment has been enabled
+    XApiKey: No environment has been enabled - KEY
+
+server:
+  port: 9090

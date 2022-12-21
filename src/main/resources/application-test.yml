@@ -1,0 +1,7 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    welcomeMessage: Welcome to test environment - with Deepak
+    XApiKey: test-123

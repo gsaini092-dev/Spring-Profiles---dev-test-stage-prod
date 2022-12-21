@@ -1,0 +1,4 @@
+com\rkdevblog\profiles\config\Application.class
+com\rkdevblog\profiles\ProfilesApplication.class
+com\rkdevblog\profiles\config\ApplicationProperties.class
+com\rkdevblog\profiles\TestController.class
